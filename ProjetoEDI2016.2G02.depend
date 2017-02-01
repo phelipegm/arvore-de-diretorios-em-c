@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1483760422 source:c:\users\pheli\documents\estudop2\projetoedi2016.2g02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
